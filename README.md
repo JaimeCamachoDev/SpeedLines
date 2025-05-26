@@ -4,7 +4,7 @@
 
 # **SpeedLines**
 
-_**Particle System in Unity 6 URP, Speed Lines**_
+_**Efecto de líneas de velocidad estilo anime/cartoon, ideal para reforzar sensación de velocidad o potencia.**_
 
 </header>
 
