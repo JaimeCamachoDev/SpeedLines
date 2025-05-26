@@ -10,8 +10,4 @@ _**Efecto de líneas de velocidad estilo anime/cartoon, ideal para reforzar sens
 
 <footer>
 
----
-
-[Wiki JaimeCamachoDev](https://jaimecamachodev.github.io)
-
 </footer>
