@@ -10,7 +10,7 @@ _**Efecto de líneas de velocidad estilo anime/cartoon, ideal para reforzar sens
 
 ## Requisitos
 
-* Unity **6000.3.10f1**
+* Unity **6000.3.27f1**
 * Render Pipeline: Universal Render Pipeline (URP)
 
 ## Contenido
@@ -21,5 +21,5 @@ _**Efecto de líneas de velocidad estilo anime/cartoon, ideal para reforzar sens
 ## Uso
 
 1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
-2. Ábrelo con Unity **6000.3.10f1**.
+2. Ábrelo con Unity **6000.3.27f1**.
 3. Abre la escena `Assets/3-Scenes/Main.unity` y pulsa **Play**.
